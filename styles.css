@@ -184,7 +184,7 @@ translate(), rotate(), scale(), skew(), and matrix().
 }
 
 .cat-whiskers-left div,
-.cat-whiskers-right-div {
+.cat-whiskers-right div {
     width: 40px;
     height: 1px;
     background-color: #000;
